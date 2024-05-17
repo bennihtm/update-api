@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": ["vscodium.now.sh"],
+  "alias": ["update-api-mocha.vercel.app"],
   "routes": [
     {
       "src": "/api/update/(?<platform>[^/]+)/(?<quality>[^/]+)/(?<commit>[^/]+)",
